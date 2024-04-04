@@ -28,8 +28,8 @@ time.sleep(5)
 # In[ ]:
 
 
-usuario = 'WandersonSousa@Newtest354.onmicrosoft.com'
-senha =  'Rock04012002'
+usuario = 'xxxxxxxxxxxxxxxx@dominio.com'
+senha =  'xxxxxxxx'
 
 #Efetuar login:
 navegador.find_element('xpath','/html/body/div/div[2]/div[2]/div/div[1]/div[2]/input').send_keys(usuario)
